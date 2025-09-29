@@ -33,7 +33,7 @@ Built with:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOURUSERNAME/conky-classroom-widget.git
+git clone https://github.com/bennyyy143/conky-classroom-widget.git
 cd conky-classroom-widget
 ```
 
@@ -84,12 +84,12 @@ conky -c classroom.conf
    NoDisplay=false
    ```
 
-Now the widget will launch automatically when you log in **and restore after sleep**, just like your other Conky widgets.
+Now the widget will launch automatically when you log in **and restore after sleep**.
 
 ---
 
 ## 📸 Screenshots
-*(Add your own screenshots here once you capture them)*
+![screenshot](screenshot.png)
 
 ---
 
