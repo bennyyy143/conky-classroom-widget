@@ -1,0 +1,12 @@
+# Secrets
+credentials.json
+token.pickle
+
+# Runtime files
+classroom.txt
+fetch.log
+*.pid
+
+# Python cache
+__pycache__/
+*.pyc
